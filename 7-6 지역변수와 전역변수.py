@@ -1,7 +1,7 @@
 gun = 10 
 
 
-# def checkpint(soldiers):
+#def checkpint(soldiers):
 #    gun = 20 # 지역변수 -> 함수 내에서 값을 주는 것
 #    gun = gun - soldiers
 #    print("[함수 내에서] 남은 총 {0}자루.".format(gun))
